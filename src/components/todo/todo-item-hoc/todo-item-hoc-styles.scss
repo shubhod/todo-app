@@ -1,0 +1,20 @@
+.TodoItemWrapper{
+    display: flex;
+    box-sizing: border-box;
+    background-color: green;
+    border-bottom: 5px solid  black;   
+    width: 100%;
+    align-items: center;
+    
+    &__middle{
+        margin-left:20px;
+        flex-basis: 20rem;
+        background-color: blue;
+        overflow:auto;
+    }
+    &__right{
+        margin-left:auto;
+    }
+
+
+}

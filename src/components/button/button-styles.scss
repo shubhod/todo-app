@@ -1,0 +1,7 @@
+.basic-btn{
+    border: none;
+    display:inline-block;
+&:focus{
+    outline: none;
+}
+}

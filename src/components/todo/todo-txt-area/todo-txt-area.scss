@@ -1,0 +1,9 @@
+.todo-txt-area{
+border: 2px solid red;
+width: 100%;
+&__inputField{
+    background-color: yellow;
+    border:20 px solid black;
+    width: 100%;
+}
+}
